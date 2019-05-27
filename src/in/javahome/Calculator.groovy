@@ -1,3 +1,5 @@
+#!/usr/bin/env groovy
+
 package in.javahome
 
 def add(x,y){
